@@ -1,6 +1,6 @@
 {
-  "private": true,
+  "type": "module",
   "dependencies": {
-    "@vercel/edge": "^0.1.2"
+    "@google-cloud/aiplatform": "^1.19.0"
   }
 }
