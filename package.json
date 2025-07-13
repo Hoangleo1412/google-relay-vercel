@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "@google-cloud/aiplatform": "^1.19.0"
+    "@google-cloud/aiplatform": "^4.3.0"
   }
 }
